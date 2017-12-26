@@ -140,33 +140,33 @@ public class MainActivity extends AppCompatActivity {
 //        showResult.setText(""+num);
     }
 
-    private void calculateNoShow(){
-
-        if (op=='+')
-            num=numtemp+num;
-        else if (op=='-')
-            num=numtemp-num;
-        else if (op=='/')
-            num=numtemp/num;
-        else if (op=='*')
-            num=numtemp*num;
-
-//        switch (op){
-//            case '+':
-//                num = numtemp+num;
-//                break;
-//            case '-':
-//                num = numtemp-num;
-//                break;
-//            case '/':
-//                num = numtemp/num;
-//                break;
-//            case '*':
-//                num = numtemp*num;
-//                break;
+//    private void calculateNoShow(){
 //
-//        }
-    }
+//        if (op=='+')
+//            num=numtemp+num;
+//        else if (op=='-')
+//            num=numtemp-num;
+//        else if (op=='/')
+//            num=numtemp/num;
+//        else if (op=='*')
+//            num=numtemp*num;
+//
+////        switch (op){
+////            case '+':
+////                num = numtemp+num;
+////                break;
+////            case '-':
+////                num = numtemp-num;
+////                break;
+////            case '/':
+////                num = numtemp/num;
+////                break;
+////            case '*':
+////                num = numtemp*num;
+////                break;
+////
+////        }
+//    }
 
 
 
